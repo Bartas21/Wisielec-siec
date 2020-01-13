@@ -1,2 +1,2 @@
 # Wisielec-siec
-Wisielec dla dwóch graczy, każdy z nich odkrywa to samo hasło, przeciwnik widzi punkty drugiego gracza.
+Wisielec dla dwóch graczy, każdy z nich odkrywa hasło, przeciwnik widzi punkty drugiego gracza.
